@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'mremote' 'exe' '/SILENT' 'http://www.mremote.org/wiki/GetFile.aspx?File=Downloads/mRemote_1.50_Setup_EN.exe' 

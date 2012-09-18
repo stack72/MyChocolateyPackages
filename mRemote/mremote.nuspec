@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>mRemote</id>
+    <version>1.50</version>
+    <title>mRemote</title>
+    <authors>Felix Deimel</authors>
+    <owners>Paul Stack</owners>
+    <licenseUrl>http://www.mremote.org/wiki/GetFile.aspx?File=License.txt</licenseUrl>
+    <projectUrl>http://www.mremote.org/</projectUrl>
+    <iconUrl>http://www.mremote.org/wiki/GetFile.aspx?File=Logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>mRemote - mRemote is a full-featured, multi-tab remote connections manager. It allows you to store all your remote connections in a simple yet powerful interface.
+| Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
+    <summary>mRemote - mRemote is a full-featured, multi-tab remote connections manager.</summary>
+    <tags>mremote chocolatey</tags>
+  </metadata>
+</package>

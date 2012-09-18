@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ProgrammersNotepad</id>
+    <version>2.3</version>
+    <title>Programmers Notepad</title>
+    <authors>Simon Steele</authors>
+    <owners>Paul Stack</owners>
+    <licenseUrl>http://www.pnotepad.org/licensing/</licenseUrl>
+    <projectUrl>http://www.pnotepad.org/</projectUrl>
+    <iconUrl>http://fc03.deviantart.net/fs51/i/2009/302/4/7/Programmer__s_Notepad_Hi_Res_by_brainwipe.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Programmers Notepad - Windows programming editor with an integrated Hex viewer/editor.
+| Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
+    <summary>Programmers Notepad - Windows programming editor with an integrated Hex viewer/editor.</summary>
+    <tags>editor programmers notepad chocolatey</tags>
+  </metadata>
+</package>

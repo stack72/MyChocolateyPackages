@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'pn2342350_multilang' 'exe' '/SILENT' 'http://pnotepad.googlecode.com/files/pn2342350_multilang.exe' 
