@@ -1,1 +1,1 @@
-Install-ChocolateyPackage 'pdfcreator' 'exe' '/SILENT' 'http://downloads.sourceforge.net/project/pdfcreator/PDFCreator/PDFCreator%201.5.0/PDFCreator-1_5_0_setup.exe?r=&ts=1347975310&use_mirror=switch' 
+Install-ChocolateyPackage 'pdfcreator' 'exe' '/SILENT' 'http://downloads.sourceforge.net/project/pdfcreator/PDFCreator%20Web%20Setup/PDFCreatorWebSetup.exe?ts=1351803453&use_mirror=switch' 
